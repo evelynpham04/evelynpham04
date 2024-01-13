@@ -7,9 +7,7 @@
 - 📫 How to reach me: linhppham0104@gmail.com
 
 ### Connect with me :
-<div id="badges">
-  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/evelynpham04/)](https://www.linkedin.com/in/evelynpham04/)
-</div>
+<a href="https://www.linkedin.com/in/evelynpham04/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Evelyn Pham| LinkedIn" width="21px"/></a>
 
 ### Languages and Tools :
 <div>
