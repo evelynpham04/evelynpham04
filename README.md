@@ -2,13 +2,13 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/fRg1SwUD8Nr0EWI75x/giphy.gif" width="300"/>
 </div>
----
+
 - 🔭 I'm a Computer Science and Mathematics double major at Dickinson College.
 - 📫 How to reach me: linhppham0104@gmail.com
 
 ### Connect with me :
 <div id="badges">
-  <img src="https://www.flaticon.com/free-icon/linkedin_174857" alt="LinkedIn Badge"/>
+  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/your_username/)](https://www.linkedin.com/in/evelynpham04/)
 </div>
 
 ### Languages and Tools :
