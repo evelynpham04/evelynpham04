@@ -8,7 +8,7 @@
 
 ### Connect with me :
 <div id="badges">
-  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/your_username/)](https://www.linkedin.com/in/evelynpham04/)
+  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/evelynpham04/)](https://www.linkedin.com/in/evelynpham04/)
 </div>
 
 ### Languages and Tools :
