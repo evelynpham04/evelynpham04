@@ -1,4 +1,7 @@
-### Hi there, I'm Evelyn Pham 👋
+<h3 align="center">
+Hi there, I'm Evelyn Pham 👋
+</h3>
+
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/fRg1SwUD8Nr0EWI75x/giphy.gif" width="300"/>
 </div>
@@ -8,6 +11,7 @@
 
 ### Connect with me :
 <a href="https://www.linkedin.com/in/evelynpham04/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Evelyn Pham| LinkedIn" width="21px"/></a>
+</br>
 
 ### Languages and Tools :
 <div>
