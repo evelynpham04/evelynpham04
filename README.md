@@ -1,14 +1,17 @@
 ### Hi there, I'm Evelyn Pham 👋
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/fRg1SwUD8Nr0EWI75x/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/fRg1SwUD8Nr0EWI75x/giphy.gif" width="300"/>
 </div>
-
+---
 - 🔭 I'm a Computer Science and Mathematics double major at Dickinson College.
 - 📫 How to reach me: linhppham0104@gmail.com
 
-### :hammer_and_wrench: Connect with me :
+### Connect with me :
+<div id="badges">
+  <img src="https://www.flaticon.com/free-icon/linkedin_174857" alt="LinkedIn Badge"/>
+</div>
 
-### :hammer_and_wrench: Languages and Tools :
+### Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
